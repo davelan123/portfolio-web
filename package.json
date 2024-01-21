@@ -9,10 +9,28 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@expo/webpack-config": "^18.0.1",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.15",
+    "@mui/x-data-grid": "^6.0.4",
+    "@react-navigation/drawer": "^6.6.2",
+    "@react-navigation/native": "^6.1.6",
+    "boxicons": "^2.1.4",
     "expo": "~48.0.9",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.4"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-native": "0.71.4",
+    "react-native-side-menu": "^1.1.3",
+    "react-native-sidebar": "^0.3.0",
+    "react-native-web": "~0.18.10",
+    "react-sidebar-pro": "^3.1.1",
+    "react-stomp": "^5.0.0",
+    "sockjs-client": "^1.0.2",
+    "stompjs": "^2.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
